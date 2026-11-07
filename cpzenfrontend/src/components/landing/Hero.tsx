@@ -80,7 +80,7 @@ const Hero = () => {
               </SignUpButton>
             </SignedOut>
             <Button asChild variant="link" className="text-foreground">
-              <a href="https://github.com/ResorcinolWorks/CPZENworking" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 tracking-tight">
+              <a href="https://github.com/0xReso/CPZENworking" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 tracking-tight">
                 <Github className="w-5 h-5" />
                 GitHub Repo
               </a>
