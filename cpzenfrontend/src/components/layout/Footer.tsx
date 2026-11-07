@@ -19,7 +19,7 @@ export const Footer = () => {
 						<Twitter className="h-5 w-5 text-foreground hover:text-primary transition-colors" />
 					</a>
 					<a
-						href="https://github.com/ResorcinolWorks"
+						href="https://github.com/0xReso"
 						target="_blank"
 						rel="noopener noreferrer"
 						aria-label="GitHub"

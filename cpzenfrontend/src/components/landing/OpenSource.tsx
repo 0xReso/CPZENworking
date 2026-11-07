@@ -19,7 +19,7 @@ const OpenSource = () => {
 								everyone!
 							</p>
 							<a
-								href="https://github.com/ResorcinolWorks/CPZENworking"
+								href="https://github.com/0xReso/CPZENworking"
 								target="_blank"
 								rel="noopener noreferrer"
 							>
